@@ -1,8 +1,9 @@
 # Integrate Giphy API with Ant Design of React
 
+### [💡 Live Demo](https://random-gif-api.netlify.app)
+
 ![Searching Gifs with Giphy API](https://i.ibb.co/vzLqCW0/gif-2.png)
 
-### [Live Site](https://random-gif-api.netlify.app)
 
 ### [🌟 Giphy API ](https://developers.giphy.com/explorer/)
 ### [🌟 Ant Design ](https://ant.design/docs/react/introduce)
