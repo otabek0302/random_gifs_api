@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Integrate Giphy API with Ant Design of React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Searching Gifs with Giphy API](https://i.ibb.co/vzLqCW0/gif-2.png)
 
-## Available Scripts
+### [Live Site](https://random-gif-api.netlify.app)
 
-In the project directory, you can run:
+### [🌟 Giphy API ](https://developers.giphy.com/explorer/)
+### [🌟 Ant Design ](https://ant.design/docs/react/introduce)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is a GIFs page that allows users to search for and view GIFs from the Giphy API. It's a simple and fun way to discover and share animated GIFs for any occasion. 
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Search for GIFs: Users can search for GIFs by entering keywords in the search bar.
+- Display GIFs: The search results are displayed in a visually appealing grid of GIFs.
+- Giphy API Integration: The project utilizes the Giphy API to fetch GIFs based on user queries.
+- Responsive Design: The design of the page is responsive and works well on various screen sizes.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- **REACT**: For structuring the web page.
+- **Ant Design**: For styling.
+- **Responsive Design**: Using media queries to ensure mobile responsiveness.
+- **Optimized Images**: To maintain performance and visual quality.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
+![Searching Gifs with Giphy API](https://i.ibb.co/WpQ3pxb/gifs.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Setup:
+- run ```npm i && npm start```
