@@ -2,7 +2,7 @@
 
 ### [💡 Live Demo](https://random-gif-api.netlify.app)
 
-![Searching Gifs with Giphy API](https://i.ibb.co/vzLqCW0/gif-2.png)
+![Searching Gifs with Giphy API](https://i.ibb.co/xMz8trr/gif-2.png)
 
 
 ### [🌟 Giphy API ](https://developers.giphy.com/explorer/)
@@ -32,7 +32,7 @@ This project is a GIFs page that allows users to search for and view GIFs from t
 
 
 ## Screenshots
-![Searching Gifs with Giphy API](https://i.ibb.co/WpQ3pxb/gifs.png)
+![Searching Gifs with Giphy API](https://i.ibb.co/C1WXDQ7/gifs.png)
 
 Setup:
 - run ```npm i && npm start```
